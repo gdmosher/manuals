@@ -19,11 +19,11 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Your First Section
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Your Home Page
       url: /
       type: homepage
       output: web, pdf
@@ -32,4 +32,5 @@ entries:
       url: /README/
       type: homepage
       output: web, pdf
+
 
