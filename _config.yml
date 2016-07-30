@@ -7,13 +7,13 @@ baseurl: "/manuals"
 ## any subdirectory that appears after the domain where you're publishing your site
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
-topnav_title: Your Topnav_title
+topnav_title: Data Analysis Tutorials
 # this appears on the top navigation bar next to the home button
-site_title: Your site_title
+site_title: Manuals
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
-company_name: Your company_name
+company_name: UC Riverside
 # this appears in the footer
-github_editme_path: YourGithubID/YourGithubRepositoryName/blob/gh-pages
+github_editme_path: tgirke/manuals/edit/reviews
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 disqus_shortname: your_disqus_shortname
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
@@ -28,7 +28,7 @@ exclude:
   - .idea/
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_email: YourEmailAddress@provider.com
+feedback_email: thomas.girke@ucr.edu
 # used as a contact email for the Feedback link in the top navigation bar
 
 #feedback_disable: true

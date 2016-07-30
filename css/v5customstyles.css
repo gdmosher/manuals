@@ -146,12 +146,12 @@ table > tfoot > tr > td {
     border-top: 1px solid #ddd;
 }
 table > thead > tr > th {
-  vertical-align: bottom;
-  border-bottom: 2px solid #ddd;
-  text-transform: uppercase;
-  background-color: #444;
-  color: white;
-  text-align: center;
+    vertical-align: bottom;
+    border-bottom: 2px solid #ddd;
+    text-transform: none;
+    background-color: #777;
+    color: white;
+    text-align: left;
 }
 table > caption + thead > tr:first-child > th,
 table > colgroup + thead > tr:first-child > th,
@@ -396,13 +396,11 @@ background-color: #347DBE;
 }
 
 ul#mysidebar {
-  margin-top:40px;
-  
-  border-radius:0px;
+    border-radius:0px;
 }
 
 .nav ul li ul li a {
-  padding-left:20px;
+    padding-left:40px;
 }
 
 .nav li.thirdlevel > a {
@@ -418,8 +416,7 @@ ul#mysidebar {
 }
 
 .nav li a {
-  background-color: #EDEDED;
-  padding-right:10px;
+    padding-right:10px;
 }
 
 .nav li a:hover {
@@ -711,7 +708,7 @@ ol.series li {
 }
 
 .siteTagline {
-    font-size: 300%;
+    font-size: 200%;
     font-weight: bold;
     color: silver;
     font-family: monospace;

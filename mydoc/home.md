@@ -4,8 +4,8 @@ audience: field engineers, clients
 type: first_page
 homepage: true
 sidebar: mydoc_sidebar
-tpermalink: /
-type: homepage
+permalink: /home/
+folder: manuals
 ---
 
 {{site.data.alerts.note}} 
