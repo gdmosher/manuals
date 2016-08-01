@@ -2,7 +2,7 @@
 title: Introduction
 audience: field engineers, clients
 type: first_page
-homepage: true
+#homepage: true    #this blocked title from showing
 sidebar: mydoc_sidebar
 permalink: /home/
 folder: manuals
